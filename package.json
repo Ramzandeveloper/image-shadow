@@ -1,6 +1,6 @@
 {
-  "name": "image-shadow",
-  "version": "1.0.0",
+  "name": "react-shadowy",
+  "version": "1.0.1",
   "description": "Add awosomes shadows",
   "main": "index.js",
   "scripts": {

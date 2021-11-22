@@ -1,4 +1,4 @@
-function ImageShadowReact(options) {
+function reactShadowy(options) {
   let images = document.querySelectorAll(".imageshadow");
   if (options.shadow_type === "hard") options.shadow_type = "0px";
   else options.shadow_type = "15px";
@@ -10,4 +10,4 @@ function ImageShadowReact(options) {
     }
   });
 }
-module.exports.ImageShadowReact = ImageShadowReact;
+module.exports.reactShadowy = reactShadowy;
